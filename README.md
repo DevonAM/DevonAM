@@ -6,6 +6,7 @@
 
 
 ### Stack I work with
+<code><img height="50" src="https://user-images.githubusercontent.com/38596403/109398658-6d407f80-78fb-11eb-8259-540f1b089d9b.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
